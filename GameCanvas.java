@@ -9,13 +9,14 @@ public class GameCanvas extends JComponent {
     private int height;
     private Color backgroundColor;
     
+    //constructor, receives width height and color from 
     public GameCanvas (int w, int h, Color c) {
 
         width = w;
         height = h;
         backgroundColor = c;
         setPreferredSize(new Dimension(width, height));
-        
+    
     }
     
     protected void paintComponent(Graphics g) {
