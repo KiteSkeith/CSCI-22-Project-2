@@ -33,6 +33,7 @@ public class GameCanvas extends JComponent {
         
     }
     
+    //method to set the background color
     public void setBackgroundColor(Color bgColor) {
 
         backgroundColor = bgColor;
