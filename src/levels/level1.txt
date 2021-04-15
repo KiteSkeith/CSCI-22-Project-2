@@ -1,0 +1,17 @@
+Trampoline 800 550 300 75 blue
+Hazards 800 470 50 50
+Hazards 400 220 30 30
+Hazards 450 220 30 30
+Hazards 350 220 30 30
+Collider 0 0 50 768 purple
+Collider 0 718 1024 50 purple
+Collider 974 0 50 768 purple
+Collider 0 0 1024 50 purple
+Collider 0 250 700 100 purple
+Collider 300 630 100 25 gray
+Collider 450 550 100 25 gray
+Collider 600 480 100 25 gray
+MovingObject 500 150 100 25 30 true
+MovingObject 300 180 100 25 40 false
+// Goal 300 530 100 100
+Goal 100 150 100 100

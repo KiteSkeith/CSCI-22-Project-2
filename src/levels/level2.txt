@@ -1,0 +1,18 @@
+Goal 870 617 100 100
+Collider 0 0 50 768 purple
+Collider 0 718 1024 50 purple
+Collider 974 0 50 768 purple
+Collider 0 0 1024 50 purple
+Collider 487 300 50 468 purple
+Collider 487 0 50 200 purple
+Hazards 437 667 50 50
+Hazards 537 667 50 50
+MovingObject 150 450 100 25 100 true
+MovingObject 300 600 100 25 100 false
+MovingObject 300 300 100 25 100 false
+Hazards 437 667 50 50
+Hazards 587 667 50 50
+Hazards 637 667 50 50
+Hazards 687 667 50 50
+Hazards 737 667 50 50
+Hazards 787 667 50 50
