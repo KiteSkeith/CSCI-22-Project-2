@@ -1,5 +1,5 @@
 /**
- * Game Starter contains the main method. Creates the game for the user
+ * Drawing Objects are objects that are drawn in the canvas. Is an interface
  *
  * @author Christopher Nicolo C. Linaac, Christian Paul V. Penaflor
  * @version 05-21-19
@@ -20,18 +20,11 @@ such as a text book or webpage, those have been
 clearly noted with a proper citation in the comments 
 of my code.
 */
-public class GameStarter {
+import java.awt.*;
 
-    public static int width = 1024;
-    public static int height = 768;
+public interface DrawingObject {
 
-    
-    public static void main(String[] args) {
+    public void draw(Graphics2D g2d); //The draw method used to draw the shape on the frame.
 
-        GameFrame gf = new GameFrame(width, height, "Dungeon Runner - Linaac, Peñaflor");
-        gf.addKeyBindings();
-        gf.setUpFrame();
-
-    }
-
+    public void anim(); //The animation method used to move the shapes continuously
 }

@@ -1,0 +1,4 @@
+Collider 0 0 50 768 purple
+Collider 0 718 1024 50 purple
+Collider 974 0 50 768 purple
+Collider 0 0 1024 50 purple
