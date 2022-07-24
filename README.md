@@ -8,14 +8,6 @@ Christian Penaflor <br />
 Nick Linaac 
 
 
-## Controls:
-**W** -- Go Up <br />
-**A** -- Go Left <br />
-**S** -- Go Right <br />
-**D** -- Go Down <br />
-**Space** - Shoot 
-
-
 ## Instructions for Running in Local Multiplayer:
 Local Multiplayer (Must be in same networK)
 
